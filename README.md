@@ -1,5 +1,14 @@
 # 💫 About Me:
-### 🔭 I’m currently working on<br>I'm currently involved in enterprise software development at Cargill, working with Java, Spring Boot, Pipelines, Okta, and Identity management. Additionally, at ShipEase, I’m focusing on eCommerce and marketing, with a goal of making digital tools accessible to the general public. I also have some exciting freelance projects, including several Next.js projects for medical marketing and charity games.<br><br>### 👯 I’m looking to collaborate on<br>I’m interested in collaborating on open-source projects or industry initiatives that focus on accessible eCommerce solutions. I'm also diving into SEO and would love to collaborate with others in this field. I'm open to projects that need an extra hand, whether in frontend or backend.<br><br>### 🌱 I’m currently learning<br>I’m refining my backend skills, particularly in Java, Kafka, and OpenSearch, and on the frontend, I’m working to deepen my understanding of SEO. I’m also pushing my JavaScript and TypeScript skills to new levels.<br><br>### 💬 Ask me about<br>I have a lot of experience in software development processes, creating sales plans, and working with clients for mutual benefit. Feel free to ask me about full-stack development, sales strategies, or client relations—I enjoy sharing what I’ve learned over the years.<br><br>### ⚡ Fun fact<br>I’m a proud dad, a gym and nature lover, and a former gamer. I still follow the gaming world and enjoy staying fit while exploring the great outdoors!
+
+### 🔭 I’m currently working on<br>I'm currently involved in enterprise software development at Cargill, working with Java, Spring Boot, Pipelines, Okta, and Identity management. Additionally, at ShipEase, I’m focusing on eCommerce and marketing, with a goal of making digital tools accessible to the general public. I also have some exciting freelance projects, including several Next.js projects for medical marketing and charity games.
+
+### 👯 I’m looking to collaborate on<br>I’m interested in collaborating on open-source projects or industry initiatives that focus on accessible eCommerce solutions. I'm also diving into SEO and would love to collaborate with others in this field. I'm open to projects that need an extra hand, whether in frontend or backend.
+
+### 🌱 I’m currently learning<br>I’m refining my backend skills, particularly in Java, Kafka, and OpenSearch, and on the frontend, I’m working to deepen my understanding of SEO. I’m also pushing my JavaScript and TypeScript skills to new levels.
+
+### 💬 Ask me about<br>I have a lot of experience in software development processes, creating sales plans, and working with clients for mutual benefit. Feel free to ask me about full-stack development, sales strategies, or client relations—I enjoy sharing what I’ve learned over the years.
+
+### ⚡ Fun fact<br>I’m a proud dad, a gym and nature lover, and a former gamer. I still follow the gaming world and enjoy staying fit while exploring the great outdoors!
 
 
 ## 🌐 Socials:
